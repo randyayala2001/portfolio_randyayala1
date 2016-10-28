@@ -8,15 +8,15 @@ body{
  max-width: 80%;
 }
 h1{
- font-size:1.8em;
- font-weight:bold;
- color:#076ffb;
- text-align:center;
- background-color: white;
- border-color: black;
- border-bottom-right-radius: 10em;
- height: auto;
- width: auto;
+     font-size:1.8em;
+     font-weight:bold;
+     color:#076ffb;
+     text-align:center;
+     background-color: white;
+     border-color: black;
+     border-bottom-right-radius: 10em;
+     height: auto;
+     width: auto;
 }
 a{
   font-family: cursive;
