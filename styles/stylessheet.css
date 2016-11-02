@@ -12,15 +12,15 @@ body{
  font-family: Verdana;
  color:#000; /*white*/
  text-align:left;
- background-color:#062c86;
+ background-color:#93032E;
  max-width: 80%;
 }
 h1{
      font-size:1.8em;
      font-weight:bold;
-     color:#076ffb;
+     color:#C69F89;
      text-align: center;
-     background-color: midnightblue;
+     background-color: black;
      border-color: black;
      border-bottom-right-radius: 10em;
      height: auto;
@@ -63,7 +63,7 @@ p{
   color:white;
   height: auto;
   width: auto;
-  background-color: #00acfd;
+  background-color: #84894A;
   border-radius: 10px;
 }
 li{
