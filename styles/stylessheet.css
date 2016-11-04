@@ -3,7 +3,7 @@
     #93032E(PINK RASPBERRY)
     #C69F89(LIGHT FRENCH BEIGE)
     #84894A(GOLD FUSION)
-  
+
  */
 body{
  font-size:1em;
@@ -52,6 +52,7 @@ td{
   color:white;
  }
 h2{
+  color: #C69F89;
    height: auto;
    width: auto;
    background-color:black;
