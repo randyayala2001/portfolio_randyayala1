@@ -137,20 +137,57 @@ section {
       * Font size, font weight, logical grouping, orientation
   */
 
-#grandCanyon {
-  background-image: url(../images/grand_canyon.jpg);
-  background-size: cover;
-  background-position: center center;
-  height: 500px;
-  width: 800px;
-  margin: 0 auto;
-  font: Comic;
-  font-size: 20px;
-  font-family: sans-serif;
-  font-weight: 600;
-  text-align: center;
-  position: inherit;
-  color: white;
-  font-size: 50px;
+  #grandCanyon {
+    background-image: url(../images/grand_canyon.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
 
-}
+  }
+
+  .text {
+    margin-left: 5%;
+    max-width: 50%;
+    color: white;
+    font-family: 'Verdana', serif;
+    line-height: 0.9;
+    -
+  }
+
+  #title, #grandcanyon {
+    font-weight: black;
+    text-shadow: 3px 3px 3px black;
+    font-family: "Comic Sans";
+    font-size: 50px;
+  }
+
+  #title {
+    letter-spacing: -1px;
+    font-size: 35px;
+
+  }
+
+  #gc {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Verdana";
+  }
+
+  #description, #url {
+    font-weight: black;
+    text-shadow: 3px 3px 3px black;
+    font-family: "Comic Sans";
+
+
+  }
+
+  #description {
+    font-size: 25px;
+
+  }
+
+  #url {
+    font-size: 22px;
+    }
