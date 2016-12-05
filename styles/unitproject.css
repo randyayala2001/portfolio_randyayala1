@@ -21,10 +21,29 @@
   line-height: 150%;
   letter-spacing: 1px;
 }
+#geazy p{
+  text-decoration: underline;
+  font-size: 1em;
+  font-weight: 700;
+  font-weight: bold;
+}
+#geazy h3{
+  text-shadow: 3px 3px 3px green;
+  font-size: 2em;
+
+}
 #djkhaled{
   line-height: 150%;
   letter-spacing: 1px;
 }
 #djkhaled p{
   font-family: "Raleway"
+  font-weight:700: bold;
+  text-decoration: underline;
+  font-weight: 700;
+
 }
+#djkhaled h3{
+  text-shadow: 3px 3px 3px blue;
+  font-size: 2em;
+  }
