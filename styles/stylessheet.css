@@ -1,8 +1,10 @@
 /*
    Color scheme for this website:
-    #93032E(PINK RASPBERRY)
-    #C69F89(LIGHT FRENCH BEIGE)
-    #84894A(GOLD FUSION)
+    #000001(BLACK)
+    #FFC700(USC GOLD)
+    #758ECD(DARK PASTEL BLUE)
+    #4B296B(SPANISH VIOLET)
+    #D3C0CD(THISTLE)
 
  */
 body{
@@ -17,7 +19,7 @@ body{
 h1{
      font-size:1.8em;
      font-weight:bold;
-     color:#C69F89;
+     color: #D3C0CD;
      text-align: center;
      background-color: black;
      border-color: black;
